@@ -1,0 +1,1 @@
+- install dependences with python -r requirements.txt
